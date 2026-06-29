@@ -10,3 +10,5 @@ shapely==2.0.7
 netCDF4==1.7.2
 scipy==1.13.1
 tqdm==4.66.5
+rasterio>=1.4.3
+cmasher==1.9.2
